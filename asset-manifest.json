@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/barmuda_nails/static/css/main.8beb74c4.css",
+    "main.js": "/barmuda_nails/static/js/main.58108a3b.js",
+    "static/media/maria-lupan-Rlakka_pZMU-unsplash.jpg": "/barmuda_nails/static/media/maria-lupan-Rlakka_pZMU-unsplash.d620062e3395b594e664.jpg",
+    "static/media/maria-lupan-ZiZ4q21W9vc-unsplash.jpg": "/barmuda_nails/static/media/maria-lupan-ZiZ4q21W9vc-unsplash.1099bbc1ca5ef581361b.jpg",
+    "static/media/designecologist-r-Ej0NQmFlQ-unsplash.jpg": "/barmuda_nails/static/media/designecologist-r-Ej0NQmFlQ-unsplash.e0cd9ae2e36e89aa5f24.jpg",
+    "static/media/rashid-khreiss-pVw3XzhdKJg-unsplash 1.png": "/barmuda_nails/static/media/rashid-khreiss-pVw3XzhdKJg-unsplash 1.4d06198581949c51ad30.png",
+    "static/media/giorgio-trovato-gb6gtiTZKB8-unsplash 1.png": "/barmuda_nails/static/media/giorgio-trovato-gb6gtiTZKB8-unsplash 1.d182d8b6de1fc70ae546.png",
+    "static/media/unsplash_mEZ3PoFGs_k.png": "/barmuda_nails/static/media/unsplash_mEZ3PoFGs_k.f8fd591abd02f07403a5.png",
+    "static/media/jodene-isakowitz-hvqHtZqNMeI-unsplash 1.png": "/barmuda_nails/static/media/jodene-isakowitz-hvqHtZqNMeI-unsplash 1.7df0ecdba5f29ad3e71f.png",
+    "static/media/jesse-donoghoe-2aiP_wxNrfU-unsplash.jpg": "/barmuda_nails/static/media/jesse-donoghoe-2aiP_wxNrfU-unsplash.fe243847ffae97d189ca.jpg",
+    "static/media/maria-lupan-LAeTFy7xmC0-unsplash.jpg": "/barmuda_nails/static/media/maria-lupan-LAeTFy7xmC0-unsplash.5551cc3294027b7cfbaf.jpg",
+    "static/media/bermuda-logo.png": "/barmuda_nails/static/media/bermuda-logo.2e8887bb975d6a295bb1.png",
+    "index.html": "/barmuda_nails/index.html",
+    "main.8beb74c4.css.map": "/barmuda_nails/static/css/main.8beb74c4.css.map",
+    "main.58108a3b.js.map": "/barmuda_nails/static/js/main.58108a3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8beb74c4.css",
+    "static/js/main.58108a3b.js"
+  ]
+}
